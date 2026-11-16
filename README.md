@@ -58,6 +58,8 @@ When a rep adds a target account to HubSpot, the first hour of research is usual
 
 ## 2. Architecture
 
+![Workflow Overview](workflow-overview.png)
+
 ```mermaid
 flowchart LR
     W[HubSpot: Company<br/>Created Webhook] --> CFG
